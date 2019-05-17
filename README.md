@@ -53,6 +53,7 @@ To install these npm packages, cd into the folder, then run "npm install"
     - Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
 <h2>API Credential sites</h2>
+
 Twitter: https://apps.twitter.com/app/new
 
 Spotify: https://developer.spotify.com/my-applications/
