@@ -10,10 +10,10 @@ To install these npm packages, cd into the folder, then run "npm install"
 
 <h3>Follow the format presented in these queries</h3>
 
-`node liri.js concert-this <artist/band name here>`
-`node liri.js spotify-this-song '<song name here>'`
-`node liri.js movie-this '<movie name here>'`
-`node liri.js do-what-it-says`
+<p>`node liri.js concert-this <artist/band name here>`,
+`node liri.js spotify-this-song '<song name here>'`,
+`node liri.js movie-this '<movie name here>'`,
+`node liri.js do-what-it-says`,</p>
 
 - When using `node liri.js concert-this <artist/band name here>`, the following information will show up about the song in your terminal/bash window:
 
