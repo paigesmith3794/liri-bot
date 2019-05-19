@@ -69,6 +69,4 @@ OMDb API: http://www.omdbapi.com/apikey.aspx
 Working App Screenshots:
 
 spotify-this-song:
-/Users/paigesmith/Desktop/Screen Shot 2019-05-18 at 8.36.35 PM.png
-/Users/paigesmith/Desktop/Screen Shot 2019-05-18 at 8.37.06 PM.png
-/Users/paigesmith/Desktop/Screen Shot 2019-05-18 at 8.36.06 PM.png
+<img width="1440" alt="Screen Shot 2019-05-18 at 8 36 35 PM" src="https://user-images.githubusercontent.com/47373534/57977435-99e90880-79ad-11e9-89ad-659b55aa0e1f.png">
