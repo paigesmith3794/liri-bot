@@ -65,3 +65,10 @@ OMDb API: http://www.omdbapi.com/apikey.aspx
 - Node.js
 - JavaScript
 - API Technologies
+
+Working App Screenshots:
+
+spotify-this-song:
+/Users/paigesmith/Desktop/Screen Shot 2019-05-18 at 8.36.35 PM.png
+/Users/paigesmith/Desktop/Screen Shot 2019-05-18 at 8.37.06 PM.png
+/Users/paigesmith/Desktop/Screen Shot 2019-05-18 at 8.36.06 PM.png
