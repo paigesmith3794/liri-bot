@@ -66,7 +66,7 @@ OMDb API: http://www.omdbapi.com/apikey.aspx
 - JavaScript
 - API Technologies
 
-##Working App Screenshots:
+<h2>Working App Screenshots:</h2>
 
 (Couldn't get "concert-this" to work)
 
